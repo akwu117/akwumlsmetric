@@ -1,0 +1,1 @@
+select * from akwusm240902

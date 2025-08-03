@@ -1,0 +1,1 @@
+select * from aksm241021 
