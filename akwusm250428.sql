@@ -1,1 +1,0 @@
-select * from akwusm250428
